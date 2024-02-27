@@ -13,7 +13,7 @@ python3 play.py
 ```
 
 Output
-> Total stack = 20
+> Total stack = 20\
 > Tour Player 1 >> 
 
 Toutefois on peut aussi lancer la simulation en passant en parametre le nombre d'objet
